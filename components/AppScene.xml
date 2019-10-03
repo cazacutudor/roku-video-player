@@ -1,0 +1,8 @@
+<component name="AppScene" extends="Scene">
+    <script type="text/brightscript" uri="AppScene.brs" />
+    <script type="text/brightscript" uri="pkg:/components/helpers/TaskHelper.brs" />
+
+    <children>
+        <video id="videoPlayer" />
+    </children>
+</component>

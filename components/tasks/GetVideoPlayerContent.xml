@@ -1,0 +1,7 @@
+<component name="GetVideoPlayerContent" extends="Task">
+    <interface>
+        <field id="data" type="node" />
+    </interface>
+
+    <script type="text/brightscript" uri="GetVideoPlayerContent.brs" />
+</component>
