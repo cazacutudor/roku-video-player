@@ -1,2 +1,2 @@
-# roku-video-player
-A sample roku video player app written brightscript.
+# Roku Video player
+A sample roku video player app written in brightscript.
